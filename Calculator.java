@@ -19,4 +19,9 @@ public class Calculator
   {
     return a-b;
   }
+
+  private static int mutiple(int a, int b)
+  {
+    return a*b;
+  }
 }
